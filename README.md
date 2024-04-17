@@ -1,2 +1,3 @@
 # hllo-word
 este repositório é para praticar o fluxo github
+Olá! Sou fabioh2m tenho 52 anos, estou começando minha carreira de programador. Acredito que é uma carreira promissora que vai me oferecer uma estabilidade financeira a curto prazo, por isso quero me dedicar bastante aos estudos. Sou esforçado gosto de equipes e funciono bem sob comandos. Tenho 5 profissões, mas não alcancei a estabilidade que eu queria em nenhuma delas.A creio que a profissão de programador, vai me dar essa estabilidade como já disse. Sem contar a possibilidade de trabalho home-offce que me permite ter tempo pras coisas mais importantes da vida.Que DEUS me ajude nesse novo projeto e vou precisar da ajuda de cada um de vocês devs.
